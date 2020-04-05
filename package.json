@@ -2,7 +2,7 @@
   "name": "mosters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tenezill.github.io/Monsters-Rolodex",
+  "homepage": "https://tenezill.github.io/react-monster",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.12.0",
